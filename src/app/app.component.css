@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(135, 193, 207);
+  }
+  .container {
+    text-align: center;
+    margin-top: 10%;
+    color: blue;
+  }
+  #inputValue {
+    width: 40%;
+    padding: 2%;
+    margin-bottom: 10px;
+    outline: none;
+    border: 2px solid #aaa;
+    border-radius: 28px;
+  }
+  #submit {
+    width: 18%;
+    outline: none;
+    padding: 1.5%;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    color: white;
+    font-size: 13px;
+    background-color: rgb(104, 14, 163);
+    border: 2px solid #aaa;
+  }
+  #contentText {
+    display: block;
+  }
+  
